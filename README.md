@@ -1,4 +1,4 @@
-# Sorting_Algorithm_Visualization
+# Sorting_Algorithm_Visualization  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java logo" width="60" height="60"/>
 project description
 
 ## Team Members
