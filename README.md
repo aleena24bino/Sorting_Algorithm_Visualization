@@ -1,5 +1,4 @@
 # Sorting_Algorithm_Visualization  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java logo" width="60" height="60"/>
-##project description
 
 This project provides a comprehensive visualization of four fundamental sorting algorithms: Insertion Sort, Merge Sort, Heap Sort, and Quick Sort. The visualization is implemented using Java, making it an educational tool for understanding how these algorithms work.
 - **Insertion Sort Visualization:** Demonstrates the process of building a sorted array one element at a time.
