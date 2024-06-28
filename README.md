@@ -2,11 +2,11 @@
 project description
 
 ## Team Members
-1.[Aishwarya J S](https://github.com/Aish-h)
-2.[Akhil Mohan](https://github.com/Akhil-Mohan-github)
-3.[Aleena Bino](https://github.com/aleena24bino)
-4.[Aliya Nawal](https://github.com/Aliyanawal)
-5.[Amal Babu](https://github.com/amalb03)
+1. [Aishwarya J S](https://github.com/Aish-h)
+2. [Akhil Mohan](https://github.com/Akhil-Mohan-github)
+3. [Aleena Bino](https://github.com/aleena24bino)
+4. [Aliya Nawal](https://github.com/Aliyanawal)
+5. [Amal Babu](https://github.com/amalb03)
 
 ## Project Snapshots
 pictures of the project here.
