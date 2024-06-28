@@ -14,7 +14,19 @@ This project provides a comprehensive visualization of four fundamental sorting 
 5. [Amal Babu](https://github.com/amalb03)
 
 ## Project Snapshots
-pictures of the project here.
+
+Heap Sort
+![heap](https://github.com/aleena24bino/Sorting_Algorithm_Visualization/assets/148476197/e04cd702-b5a2-4623-9d4d-246a162c9a6d)
+
+Quick Sort
+![quick](https://github.com/aleena24bino/Sorting_Algorithm_Visualization/assets/148476197/9eeb7720-33dd-4632-beec-452762ee415b)
+
+Merge Sort
+![merge](https://github.com/aleena24bino/Sorting_Algorithm_Visualization/assets/148476197/dd70f361-0938-4e09-a3b6-cb9d170504d5)
+
+Insertion Sort
+![insert](https://github.com/aleena24bino/Sorting_Algorithm_Visualization/assets/148476197/7b649c0f-3c0b-4863-aa5d-21e6aa315baa)
+
 
 ## How it works?
 
