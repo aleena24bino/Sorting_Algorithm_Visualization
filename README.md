@@ -22,6 +22,10 @@ Explain how the project works.
 ## Project Video
 Video of the project here.
 
+https://github.com/aleena24bino/Sorting_Algorithm_Visualization/assets/118409571/c3b87f5d-6110-4f40-98a3-9e3ee09fb6c0
+
+
+
 ## How to configure?
 
 
