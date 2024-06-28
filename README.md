@@ -26,19 +26,19 @@ pictures of the project here.
 * Java's Swing framework is used for GUI components (JFrame, JPanel, JButton, etc.).
 * Components are organized into panels (input, update_btn, shuffle_btn, output1, output2, etc.) to manage user input, algorithm execution, and displaying results.
 
-**Algorithm Implementation:**
+**3.Algorithm Implementation:**
 * Each sorting algorithm (insertion(), merge(), quick(), heap()) is encapsulated within methods that perform the sorting logic and update the GUI accordingly.
 * For instance, Heap Sort (heap()) initializes a max heap, performs heapification, and repeatedly extracts the maximum element to achieve sorting.
 
-**GUI Interaction:**
+**4.GUI Interaction:**
 * The GUI_Display_Arr class manages the visualization of arrays and tree structures representing sorting algorithms.
 * Methods like addArr(), addTree(), warpup(), etc., handle updating the GUI with arrays, tree structures, and text descriptions of algorithm steps.
 
-**User Controls:**
+**5.User Controls:**
 * Buttons (start, stop, previous, next) control the flow of visualization, allowing users to start, stop, and navigate through algorithm steps.
 * Input fields (input) accept user-defined arrays for sorting, which are then visualized and processed by the sorting algorithms.
 
-**Execution Flow:**
+**6.Execution Flow:**
 * When the program starts, users input an array, choose a sorting algorithm, and initiate sorting.
 * The GUI updates dynamically to show the current state of the array and algorithm execution step-by-step.
 
